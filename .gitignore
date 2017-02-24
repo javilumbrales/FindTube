@@ -1,0 +1,9 @@
+out
+.DS_Store
+.cordova
+.idea
+.swp
+.jks
+plugins
+platforms/android/android.apk
+platforms/android/src/org/apache/cordova/networkinformation/
